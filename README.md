@@ -24,4 +24,7 @@ not working
 - bluetooth
 - battery manager
 - dual display hdmi or DP
-- 
+
+any help contact me still working in but u can install with branch install
+https://github.com/mohamedsharaf/lenovo-thinkpad-P50-osx/tree/installer
+
